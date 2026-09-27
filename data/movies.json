@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Inception",
+    "year": "2010",
+    "genre": "Sci-Fi, Action",
+    "rating": 8.8,
+    "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "description": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets, is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\"."
+  },
+  {
+    "id": "2",
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": "Sci-Fi, Adventure",
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage."
+  },
+  {
+    "id": "3",
+    "title": "The Dark Knight",
+    "year": "2008",
+    "genre": "Action, Crime, Drama",
+    "rating": 9.0,
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets."
+  },
+  {
+    "id": "4",
+    "title": "Spirited Away",
+    "year": "2001",
+    "genre": "Animation, Family, Fantasy",
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family."
+  },
+  {
+    "id": "5",
+    "title": "Parasite",
+    "year": "2019",
+    "genre": "Comedy, Thriller, Drama",
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident."
+  }
+]
